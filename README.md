@@ -12,6 +12,7 @@ To develop a Student Record Management System by combining multiple C source fil
 Features:-
 
 Add (A/a): Add a new student record.
+
 Delete (D/d): Delete an existing student record.
 Show (S/s): Display the list of student records.
 Modify (M/m): Modify student details.
@@ -21,9 +22,9 @@ Exit (E/e): Exit the application.
 
 Technologies Used:-
 
-C Programming
-Structures
-Pointers
-Dynamic Memory Allocation
-File Handling
-Makefile
+C Programming,
+Structures,
+Pointers,
+Dynamic Memory Allocation,
+File Handling,
+Makefile.
