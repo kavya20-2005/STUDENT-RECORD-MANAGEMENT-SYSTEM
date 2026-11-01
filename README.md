@@ -14,10 +14,15 @@ Features:-
 Add (A/a): Add a new student record.
 
 Delete (D/d): Delete an existing student record.
+
 Show (S/s): Display the list of student records.
+
 Modify (M/m): Modify student details.
+
 Save (V/v): Save student records to a file.
+
 Sort (T/t): Sort student records.
+
 Exit (E/e): Exit the application.
 
 Technologies Used:-
